@@ -10,7 +10,7 @@ public class Alumno {
 		this.numExp=0;
 		this.not=null;
 	}
-	
+	hey hey
 	public Alumno (String nombre, int numExp)
 	{
 		this.nombre=nombre;
